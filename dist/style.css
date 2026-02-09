@@ -1,5 +1,5 @@
 .qr-code {
-  background-image: url('./assets/images/QR.png');
+  background-image: url('../assets/images/qr-code.svg');
   background-size: cover;
   background-position: center;
   width: 100%;
