@@ -606,6 +606,10 @@ p {
   height: 16rem;
 }
 
+.h-\[57\.7\%\] {
+  height: 57.7%;
+}
+
 .min-h-screen {
   min-height: 100vh;
 }
